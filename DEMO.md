@@ -1,2 +1,2 @@
 Adding file to demo merge conflicts
-Adding new line
+Edited new line
